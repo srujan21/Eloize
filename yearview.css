@@ -69,7 +69,7 @@
 .fc-year-view .fc-day-header.ui-widget-header {
 	/* non visible with 1px due to .fc-row:first-child table style */
 	border-bottom-width: 2px;
-}
+} 
 
 .fc-year-view .fc-rigid.fc-row {
 	/* fix: right and bottom borders hidden with overflow hidden */

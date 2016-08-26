@@ -51,6 +51,7 @@
 }
 
 .fc-year-monthly-footer {
+	page-break-before: always;
 }
 
 .fc-year-view .fc-row .fc-bg table {
